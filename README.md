@@ -14,8 +14,8 @@ I have used Power BI to analyze the data and identify factors that impact patien
 
 Visualization
 
-I have created a variety of visualizations to communicate our insights to the HealthStat team. These visualizations will include charts, and tables.
+I have created a variety of visualizations to communicate our insights to the HealthStat team. These visualizations will include charts and tables.
 
 Dashboard
 
-Finally, I have created a sophisticated business dashboard that brings our insights together. This dashboard will allow the HealthStat team to easily track hospital performance and the factors that most influence length of stay and cost per patient discharge.
+This dashboard brings all the insights together. This will allow the HealthStat team or anyone to easily track hospital performance and the factors that most influence length of stay and cost per patient discharge.
