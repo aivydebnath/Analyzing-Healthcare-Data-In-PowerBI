@@ -12,10 +12,21 @@ The dataset used in this case study includes information on patient demographics
 
 The project is to analyze the data and identify factors that impact patient LOS and cost. I have looked for differences in efficiency between different hospitals.
 
+### Home:
 
-Cost Comparison:
+<img width="605" alt="Home" src="https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/assets/21152225/31e15a4c-f2c7-47fe-b9b2-09875ea24dce">
+
+### LOS Comparison:
+
+<img width="605" alt="LOS Comparison" src="https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/assets/21152225/2c5dd173-e87d-4513-ae10-ce65ea6e5968">
+
+### Cost Comparison:
 
 <img width="605" alt="Cost Comparison" src="https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/assets/21152225/3490ddf4-ad19-4ef9-bc79-fda916e32c4c">
+
+### Hospital Profile:
+
+<img width="605" alt="Hospital Profile" src="https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/assets/21152225/38edce84-086a-499d-acac-ba6ae05efdfa">
 
 
 ## Visualization
