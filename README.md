@@ -10,11 +10,11 @@ The dataset used in this case study includes information on patient demographics
 
 ## Analysis
 
-I have used Power BI to analyze the data and identify factors that impact patient LOS and cost. I have looked for differences in efficiency between different hospitals.
+The project is to analyze the data and identify factors that impact patient LOS and cost. I have looked for differences in efficiency between different hospitals.
 
 ## Visualization
 
-I have created a variety of visualizations to communicate our insights to the HealthStat team. These visualizations will include charts and tables.
+I have created a variety of visualizations to communicate our insights to the HealthStat team. These visualizations will include charts and tables and have segregated based on cost, length of stay, and hospital profile.
 
 ## Dashboard
 
