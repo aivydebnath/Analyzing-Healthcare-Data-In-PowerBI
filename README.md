@@ -15,7 +15,7 @@ The project is to analyze the data and identify factors that impact patient LOS 
 
 Cost Comparison:
 
-![](https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/blob/main/Images/Cost%20Comparison.png)
+<img width="605" alt="Cost Comparison" src="https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/assets/21152225/3490ddf4-ad19-4ef9-bc79-fda916e32c4c">
 
 
 ## Visualization
