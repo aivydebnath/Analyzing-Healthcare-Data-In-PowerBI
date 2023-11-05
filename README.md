@@ -12,6 +12,12 @@ The dataset used in this case study includes information on patient demographics
 
 The project is to analyze the data and identify factors that impact patient LOS and cost. I have looked for differences in efficiency between different hospitals.
 
+
+Cost Comparison:
+
+![](https://github.com/aivydebnath/Analyzing-Healthcare-Data-In-PowerBI/blob/main/Images/Cost%20Comparison.png)
+
+
 ## Visualization
 
 I have created a variety of visualizations to communicate our insights to the HealthStat team. These visualizations will include charts and tables and have segregated based on cost, length of stay, and hospital profile.
